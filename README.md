@@ -2,9 +2,9 @@
 
 Thank you for stopping by. 
 
-I'm Prateek, an Interaction Designer at Siemens Healthcare. I am part of small team based in Princeton, NJ, where we work on the design of medical devices and interfaces that form a part of the various prodcuts and digital services that Siemens Healthcare offers. 
+I'm Prateek, an Interaction Designer at Siemens Healthcare. I am part of small team based in Princeton, NJ, where we work on the design of medical devices and interfaces that improves workflow and the user experience for healthcare professionals in order to support better outcome for patients.
 
-During my time here I have had the opportunity to act as a design lead for the redesign of a M1 market radiology device, and am currently working on creating a UI design system that is aimed to span across the entirety of the Siemens Healthcare product portfolio.
+During my time here I have had the opportunity to work on the redesign of a M1 market radiology device, and am currently working on creating a UI design system that will span across the entirety of the Siemens Healthcare product portfolio.
 
 You can find my work experience and education journey below. I'd love to hear from you and you can reach out to me at - hello@prateeksolanki.com.
 
@@ -12,22 +12,26 @@ Cheers!
 
 ---
 
-## Prateek Solanki CV
+## CV
 *Observing, understanding and applying*
 
 ### Work
 
 1. **Siemens Healthcare**, Interaction Designer [Nov' 16 - Current]
+
 UX Lead for Siemens Cardiac Ultrasound System. 
 My resposibilities included - project management, user research, interaction design, visual design and usability testing. Translatiing user needs and workflows into efficient UI solutions for a highly complex product in a large and highly dynamic product development cycle.
 
 2. **Siemens Healthcare**, Interaction Design Intern [Feb' 16 - Jul' 16]
+
 Prototyping design concepts and UI proposals for medical device interfaces. Participation in user research activities, synthesis and translation of research into UI concepts.
 
 3. **Concept Nation**, Freelance [Sep' 15 - Jan' 15]
+
 UI design and front end development for a design collaboration and retail platform.
 
 4. **Fractal Ink Design Studio**, Front End Engineer [Feb' 13 - Jul' 13]
+
 Front end development for [eezyrent](https://www.eezyrent.com/) - a social real estate platform, and parts of other web based services designed at the studio.
 
 ### Education
@@ -42,6 +46,7 @@ User Research, Experience Strategy, Interaction Design, Information Architecture
 ### Contact
 
 Email: hello@prateeksolanki.com
+
 Portfolio: [Prateek Solanki](http://prateeksolanki.com/)
 
 ---
