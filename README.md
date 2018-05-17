@@ -1,48 +1,52 @@
-# Foundation for Sites Template
+# Hello World
 
-**Please open all issues with this template on the main [Foundation for Sites](https://github.com/zurb/foundation-sites/issues) repo.**
+Thank you for stopping by. 
 
-This is the basic starter project for [Foundation for Sites 6](http://foundation.zurb.com/sites). It includes a Sass compiler and a starter HTML file for you.
+I'm Prateek, an Interaction Designer at Siemens Healthcare. I am part of small team based in Princeton, NJ, where we work on the design of medical devices and interfaces that form a part of the various prodcuts and digital services that Siemens Healthcare offers. 
 
-## Installation
+During my time here I have had the opportunity to act as a design lead for the redesign of a M1 market radiology device, and am currently working on creating a UI design system that is aimed to span across the entirety of the Siemens Healthcare product portfolio.
 
-To use this template, your computer needs:
+You can find my work experience and education journey below. I'd love to hear from you and you can reach out to me at - hello@prateeksolanki.com.
 
-- [NodeJS](https://nodejs.org/en/) (0.12 or greater)
-- [Git](https://git-scm.com/)
+Cheers!
 
-This template can be installed with the Foundation CLI, or downloaded and set up manually.
+---
 
-### Using the CLI
+## Prateek Solanki CV
+*Observing, understanding and applying*
 
-Install the Foundation CLI with this command:
+### Work
 
-```bash
-npm install foundation-cli --global
-```
+1. **Siemens Healthcare**, Interaction Designer [Nov' 16 - Current]
+UX Lead for Siemens Cardiac Ultrasound System. 
+My resposibilities included - project management, user research, interaction design, visual design and usability testing. Translatiing user needs and workflows into efficient UI solutions for a highly complex product in a large and highly dynamic product development cycle.
 
-Use this command to set up a blank Foundation for Sites project with this template:
+2. **Siemens Healthcare**, Interaction Design Intern [Feb' 16 - Jul' 16]
+Prototyping design concepts and UI proposals for medical device interfaces. Participation in user research activities, synthesis and translation of research into UI concepts.
 
-```bash
-foundation new --framework sites --template basic
-```
+3. **Concept Nation**, Freelance [Sep' 15 - Jan' 15]
+UI design and front end development for a design collaboration and retail platform.
 
-The CLI will prompt you to give your project a name. The template will be downloaded into a folder with this name.
+4. **Fractal Ink Design Studio**, Front End Engineer [Feb' 13 - Jul' 13]
+Front end development for [eezyrent](https://www.eezyrent.com/) - a social real estate platform, and parts of other web based services designed at the studio.
 
-### Manual Setup
+### Education
 
-To manually set up the template, first download it with Git:
+1. **Domus Academy**,  M.A. in Interaction Design [Jul' 14]
+2. **Manipal Institute of Technology**, B.E. in Mechatronics [Jul' 10]
 
-```bash
-git clone https://github.com/zurb/foundation-sites-template projectname
-```
+### Skills
+User Research, Experience Strategy, Interaction Design, Information Architecture, User Interface Design, Usability Testing, Graphic Design, Copywriting, HTML, CSS, JavaScript, Interviews, Surveys, Ethnography, Task Analysis, Rapid Prototyping, Heuristic Evaluation, Wireframes, Competitive Analysis, Scenarios, Mental Models, User Journeys, Storyboards, Task Flows.
 
-Then open the folder in your command line, and install the needed dependencies:
 
-```bash
-cd projectname
-npm install
-bower install
-```
+### Contact
 
-Finally, run `npm start` to run the Sass compiler. It will re-run every time you save a Sass file.
+Email: hello@prateeksolanki.com
+Portfolio: [Prateek Solanki](http://prateeksolanki.com/)
+
+---
+
+
+
+
+
