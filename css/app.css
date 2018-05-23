@@ -2488,7 +2488,7 @@ h6, .h6 {
   h2, .h2 {
     font-size: 1.999rem; }
   h3, .h3 {
-    font-size: 1.999rem; }
+    font-size: 1.414rem; }
   h4, .h4 {
     font-size: 1.414rem; }
   h5, .h5 {
@@ -5639,9 +5639,9 @@ blockquote {
   color: #3e3e3e;
   margin: 2rem 0 2rem;
   padding: 0 1.25rem 0 1.1875rem;
-  border-left: 8px solid #544b4b;
   font-size: 1.999rem;
-  /*width: 130%;*/ }
+  /*width: 130%;*/
+  border: none; }
 
 /*Intro*/
 section.home {
@@ -5703,6 +5703,9 @@ section.home {
   width: 300px;
   position: absolute; }
 
+.text-large {
+  font-size: 36px; }
+
 /*Project Page Styles*/
 section.project-details-container {
   margin-bottom: 3rem; }
@@ -5754,7 +5757,8 @@ figure img {
 
 .project-details-container .project-detail-row p {
   font-size: 0.8rem;
-  margin-bottom: 0; }
+  margin-bottom: 0;
+  opacity: 0.6; }
 
 .project-intro-text {
   margin-top: 12rem;
@@ -5764,7 +5768,7 @@ figure img {
   margin-bottom: 1rem; }
 
 .project-detail-row-cont {
-  padding: 1rem 1rem 0 1rem;
+  padding: 1rem 2rem 0 0;
   height: fit-content; }
 
 .media-list li {
@@ -5898,6 +5902,9 @@ section.project-content.wide-media-cont.footer {
   float: right;
   display: inline-block;
   font-size: 0.8rem; }
+
+.footer .project-link-descp p {
+  opacity: 0.6; }
 
 /*NOLDOR*/
 /*MAP.IT*/
