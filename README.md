@@ -13,7 +13,6 @@ Cheers!
 ---
 
 ## CV
-*Observing, understanding and applying*
 
 ### Work
 
